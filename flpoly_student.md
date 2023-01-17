@@ -1,27 +1,27 @@
-## Student Name (or name you would preferred to be called)
+## Matt Clark
 
 ### Spring 2023
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Computer Information Technology
 
-- Course 2
+- Introduction to Business Finance
 
-- Course 3
+- Law, Public Policy, Negotiation, and Business
 
-- Course 4
+- Statistics 1
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Board Games
 
-- Thing 2
+- Video Games
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Magic: The Gathering
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2023/01/17
